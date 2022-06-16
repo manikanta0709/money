@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\bin\Debug\net6.0\Employee.exe
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\money\Employee\Employee\obj\Debug\net6.0\ref\Employee.dll
